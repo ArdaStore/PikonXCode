@@ -11,7 +11,7 @@
 
 
 ## `PW: BUYRDPLAH`
-- AUTHOR YT [DOWNLOAD](https://youtu.be/zkohxVXzZSM)
+- Author [DOWNLOAD](https://youtu.be/zkohxVXzZSM)
 ----------
 
 
