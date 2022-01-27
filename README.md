@@ -10,8 +10,8 @@
 
 
 
-## ```PW: BUYRDPLAH```
-- SC JUALAN [`DOWNLOAD`](https://github.com/ArdaStore/PikonXCode)
+## `PW: BUYRDPLAH`
+- AUTHOR YT [DOWNLOAD](https://youtu.be/zkohxVXzZSM)
 ----------
 
 
