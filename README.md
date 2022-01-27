@@ -6,33 +6,14 @@
 
 
 
-## ```FAKE #1```
-Klik Gambarnya
-<p align="center">
-  <a href="https://pslk.net/m2p3vq1p"><img src="https://g.top4top.io/p_2201pyfqk0.jpg" />
-</p>
-
-
-## ```FAKE #2```
-Klik Gambarnya
-<p align="center">
-  <a href="https://pslk.net/nen2gad2"><img src="https://g.top4top.io/p_2201oogao0.jpg" />
-</p>
 
 
 
 
-
-## ```DOWNLOAD SC```
-- SELFBOTZ [`DOWNLOAD`](https://github.com/ArdaStore)
+## ```PW: BUYRDPLAH```
+- SC JUALAN [`DOWNLOAD`](https://github.com/ArdaStore/PikonXCode)
 ----------
 
-
-## ```GROUP SUPPORT```
-- MITING   [`JOIN`](https://chat.whatsapp.com/IPLDwbJCizZI6R2lsjxPzl)
-- EXTREAM  [`JOIN`](https://bit.ly/ArdaSahaWA)
-- WhatsApp [`CHAT`](https://bit.ly/ArdaSahaWA)
-----------
 
 
 ## `CREATOR`
@@ -44,9 +25,7 @@ Klik Gambarnya
 
 
 ## `THANKS TO`
-- Allah SWT.
-- 𝗔𝗥𝗗𝗔⸙
-- 𝑨𝒓𝒅𝒂𝑩𝒐𝒕𝒛⸙
+- Allah SWT
 - My parents
 - All Friends
 - All Creator Bot
