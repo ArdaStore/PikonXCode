@@ -32,7 +32,7 @@
 
 
 
-
+[Yayayay](https://img.shields.io/endpoint?url=<https://instagram.com>&style<ARDA>)
 
 
 ## `CREATOR`
