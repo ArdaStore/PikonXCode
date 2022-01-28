@@ -43,6 +43,7 @@
 
 
 ## `CREATOR`
+- [![Owner](https://img.shields.io/badge/Developer-ArdaSaha-brightgreen)
 - Owner [ARDA](https://bit.ly/ArdaSahaWA)
 - Owner [ARDA](https://bit.ly/ArdaSahaWA)
 - Botname [ARDA](https://bit.ly/ArdaSahaWA)
