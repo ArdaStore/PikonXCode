@@ -17,7 +17,7 @@
 
 ## `「 ARDA STORE 」`
 <p align="center">
-  <a href="https://bit.ly/ArdaSahaWA"><img src="https://j.top4top.io/p_2201fhvok0.jpg" />
+[![Sumber Sc PikonXCode]<a href="https://bit.ly/ArdaSahaWA"><img src="https://j.top4top.io/p_2201fhvok0.jpg" />
 </p>
 
 
@@ -29,7 +29,7 @@
 
 ## `PW: BUYRDPLAH`
 - [DOWNLOAD](https://youtu.be/zkohxVXzZSM)
-- [![Download](https://img.shields.io/badge/YouTube-Video-cyan)](https://youtu.be/zkohxVXzZSM)
+- [![Sumber Sc PikonXCode](https://img.shields.io/badge/YouTube-Video-cyan)](https://youtu.be/zkohxVXzZSM)
 
 ----------
 
