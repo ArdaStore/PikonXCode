@@ -13,8 +13,8 @@
 
 
 ## `SC PikonXCode`
-- [![PW: BUYRDPLAH](https://img.shields.io/badge/Script-Video-green)](https://youtu.be/zkohxVXzZSM)
-- [![Sumber Sc PikonXCode](https://img.shields.io/badge/Script-Download-red)](https://github.com/ArdaStore/PikonXCode/archive/refs/heads/master.zip)
+- Github [![PW: BUYRDPLAH](https://img.shields.io/badge/Script-Video-000000)](https://youtu.be/zkohxVXzZSM)
+- Youtube [![Sumber Sc PikonXCode](https://img.shields.io/badge/Script-Download-000000)](https://github.com/ArdaStore/PikonXCode/archive/refs/heads/master.zip)
 ----------
 
 
