@@ -29,6 +29,8 @@
 
 ## `PW: BUYRDPLAH`
 - [DOWNLOAD](https://youtu.be/zkohxVXzZSM)
+- [![Download](https://img.shields.io/badge/YouTube-Video-cyan)](https://youtu.be/zkohxVXzZSM)
+
 ----------
 
 
@@ -46,9 +48,6 @@
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
-
-
-[![YouTube](https://img.shields.io/badge/YouTube-Video-cyan)](https://youtu.be/DzNIL45qHaM)
 
 
 
