@@ -35,10 +35,10 @@
 
 ## `CREATOR`
 - [![Owner Arda](https://img.shields.io/badge/Developer-ArdaSaha-brightgreen)](https://bit.ly/ArdaSahaWA)
-- [![Join Grup Bot Arda](https://img.shields.io/badge/Join%20Group-000000?style=flat&logo=appveyorwhatsapp&logoColor=green)](https://chat.whatsapp.com/EEuvxqQuv4bGsjrTttzFz8) 
+- [![Join Grup Bot Arda](https://img.shields.io/badge/Join%20Group-000000?style=flat&logo=whatsapp&logoColor=green)](https://chat.whatsapp.com/EEuvxqQuv4bGsjrTttzFz8) 
 - [![Instagram Arda](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=ff69b4)](https://bit.ly/ArdaSaha10)
 - [![Tiktok Arda](https://img.shields.io/badge/Tiktok-000000?style=flat&logo=tiktok&logoColor=ffffff)](https://bit.ly/TikTokArda)
-- [![Youtube Arda](https://img.shields.io/badge/Youtube-000000?style=flat&logo=appveyoryoutube&logoColor=red)](https://bit.ly/YTarda)
+- [![Youtube Arda](https://img.shields.io/badge/Youtube-000000?style=flat&logo=youtube&logoColor=red)](https://bit.ly/YTarda)
 
 ----------
 
