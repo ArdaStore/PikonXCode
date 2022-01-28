@@ -13,8 +13,8 @@
 
 
 ## `SC PikonXCode`
-- Github [![PW: BUYRDPLAH](https://img.shields.io/badge/Video-ff3399)](https://youtu.be/zkohxVXzZSM)
-- Youtube [![Sumber Sc PikonXCode](https://img.shields.io/badge/Download-ff3399)](https://github.com/ArdaStore/PikonXCode/archive/refs/heads/master.zip)
+- [![PW: BUYRDPLAH](https://img.shields.io/badge/Video-ff3399)](https://youtu.be/zkohxVXzZSM)
+- [![Sumber Sc PikonXCode](https://img.shields.io/badge/Download-ff3399)](https://github.com/ArdaStore/PikonXCode/archive/refs/heads/master.zip)
 ----------
 
 
@@ -56,7 +56,7 @@
 ## `THANKS TO SC`
 - ⩩KurrXd
 - ⩩PikonXCode
-- Dcode Denpa
+- ⩩Dcode Denpa
 - ⩩Yuzzu Kamiyaka
 
 
