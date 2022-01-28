@@ -16,9 +16,8 @@
 
 
 
-## `PW: BUYRDPLAH`
-- [DOWNLOAD](https://youtu.be/zkohxVXzZSM)
-- [![Sumber Sc PikonXCode](https://img.shields.io/badge/YouTube-Video-cyan)](https://youtu.be/zkohxVXzZSM)
+## `SC PikonXCode`
+- [![PW: BUYRDPLAH](https://img.shields.io/badge/YouTube-Video-green)](https://youtu.be/zkohxVXzZSM)
 
 ----------
 
